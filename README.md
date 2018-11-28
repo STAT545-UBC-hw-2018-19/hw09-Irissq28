@@ -1,3 +1,41 @@
+# STAT547 Homework 09 repo
+
+**NOTE**
+Here is the link to the [original version](https://github.com/STAT545-UBC/make-activity) that my homework was seeded with.
+
+## Overview
+
+The task of this homework is to modify the make pipeline. For more information, please check the [assignment details](http://stat545.com/Classroom/assignments/hw09/hw09.html).
+
+I	added the **letter_freq** sets in Makefile. The purpose of this set is to display and illustrate the frequecy of each letter in word.txt file.
+
+Here are the links to the main folders. Original files are bolded. :smile:
+
+[R script](https://github.com/STAT545-UBC-students/hw09-Irissq28/tree/master/R)
+
+* letter_freq.R
+* **histogram.r**
+
+[output](https://github.com/STAT545-UBC-students/hw09-Irissq28/tree/master/output)
+
+* letter_freq.html
+* letter_freq.md
+* **report.html** 
+* **report.md**
+
+
+[data](https://github.com/STAT545-UBC-students/hw09-Irissq28/tree/master/data)
+
+* letter_freq.tsv
+* **histogram.tsv**
+* **words.txt**
+
+[images](https://github.com/STAT545-UBC-students/hw09-Irissq28/tree/master/images)
+
+* letter_freq.png
+* **histogram.png**
+
+
 make-activity
 =============
 
